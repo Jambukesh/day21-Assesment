@@ -1,0 +1,14 @@
+C:\Mphasis dot net\Day 21\Assignment 26\Assignment 26\bin\Debug\Assignment 26.exe.config
+C:\Mphasis dot net\Day 21\Assignment 26\Assignment 26\bin\Debug\Assignment 26.exe
+C:\Mphasis dot net\Day 21\Assignment 26\Assignment 26\bin\Debug\Assignment 26.pdb
+C:\Mphasis dot net\Day 21\Assignment 26\Assignment 26\obj\Debug\Assignment 26.csproj.AssemblyReference.cache
+C:\Mphasis dot net\Day 21\Assignment 26\Assignment 26\obj\Debug\Assignment 26.csproj.CoreCompileInputs.cache
+C:\Mphasis dot net\Day 21\Assignment 26\Assignment 26\obj\Debug\Assignment 26.exe
+C:\Mphasis dot net\Day 21\Assignment 26\Assignment 26\obj\Debug\Assignment 26.pdb
+E:\mphasis\problem statement\days\day 21\assignment26-master\Assignment 26\bin\Debug\Assignment 26.exe.config
+E:\mphasis\problem statement\days\day 21\assignment26-master\Assignment 26\bin\Debug\Assignment 26.exe
+E:\mphasis\problem statement\days\day 21\assignment26-master\Assignment 26\bin\Debug\Assignment 26.pdb
+E:\mphasis\problem statement\days\day 21\assignment26-master\Assignment 26\obj\Debug\Assignment 26.csproj.AssemblyReference.cache
+E:\mphasis\problem statement\days\day 21\assignment26-master\Assignment 26\obj\Debug\Assignment 26.csproj.CoreCompileInputs.cache
+E:\mphasis\problem statement\days\day 21\assignment26-master\Assignment 26\obj\Debug\Assignment 26.exe
+E:\mphasis\problem statement\days\day 21\assignment26-master\Assignment 26\obj\Debug\Assignment 26.pdb
